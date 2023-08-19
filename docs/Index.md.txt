@@ -1,0 +1,50 @@
+
+
+Security Module of the Smartphone Operating System (Samsung A13)
+The smartphone operating system's security module provides essential features to protect your data and privacy
+1. Introduction: The Security Module offers various protection functionalities.
+2. Features:
+Screen Lock: Secure your device with various types of locks..
+Biometric Authentication: Utilize facial recognition and fingerprint to unlock.
+3. Settings:
+Access 'Settings' > 'Security'.
+Select 'Screen Lock' and choose the desired method.
+Follow the instructions to set up a PIN, password, pattern, facial recognition, or fingerprint.
+
+Types of Screen Lock
+The smartphone offers different types of screen lock to ensure the security of your data.
+1. PIN: Set a numeric code to unlock the device.
+Access 'Settings' > 'Security and Privacy' > 'Screen Lock'.
+Select 'PIN' and set a code.
+2. Password: Create an alphanumeric password as your unlock method.
+Settings" > "Screen Lock" > "Screen Lock Type" > "Add the default PIN.
+Select "Password" and set up a secure password..
+3. Pattern: Draw a pattern on the screen to unlock.
+Go to "Settings" > "Screen Lock" > "Screen Lock Type" > "Add the default PIN.
+Select "Pattern" and set up a secure pattern.
+4. Facial Recognition: Use your face to unlock the phone.
+Go to 'Settings' > 'Screen Lock' > 'Screen Lock Type' > 'Enable the option (Face)' > 'Perform initial facial recognition.
+5. Fingerprint: Use your fingerprint to unlock.
+Go to 'Settings' > 'Screen Lock' > 'Screen Lock Type' > 'Enable the option (Fingerprint)' > 'Perform initial fingerprint setup.
+
+Notification Settings 
+Customize how notifications are displayed and interact with the lock screen
+1. Lock Screen Notifications: Set whether notifications display full or sensitive content.
+Open 'Settings' > 'Notifications' > 'Lock Screen Notifications'.
+Choose between 'Show Content' or 'Hide Content'.
+2. Quick Replies: Enable the ability to respond to messages directly from the lock screen.
+Access 'Settings' > 'Notifications' > 'Lock Screen Notifications' > (Next to 'Show Content,' tap the gear icon) > 'Choose allowed apps to be displayed on the home screen'..
+Enable 'Allow' for compatible apps.
+
+Find My Phone 
+Locate and secure your device in case of loss or theft.
+1. Remote Location: Use an online tracking service to find your device.
+Access the service's website and log in.
+Locate your smartphone on a map.
+2. Remote Lock: Remotely lock your device to protect your data.
+Access the tracking service's website.
+Log into your account and choose the lock option.
+3. Erase Data: If necessary, remotely erase all data from the device.
+Access the tracking service.
+Log in and select the option to erase data.
+
